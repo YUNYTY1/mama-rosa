@@ -1,5 +1,6 @@
 // Todas las imágenes del sitio. Reemplaza cada archivo por tu foto real
 // con el MISMO nombre y no tendrás que tocar el código.
+import logo from './logo.jpg'
 import hero1 from './hero-1.jpg'
 import hero2 from './hero-2.jpg'
 import hero3 from './hero-3.jpg'
@@ -14,6 +15,7 @@ import instagram3 from './instagram-3.jpg'
 import instagram4 from './instagram-4.jpg'
 
 export {
+  logo,
   hero1,
   hero2,
   hero3,
